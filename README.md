@@ -39,6 +39,11 @@ Chart 2 Outcome based on Launch Date
 
 ![Outcomes based on Goals](Module1Challenge_Chart1OutcomeLaunchDate.png)
 
+Analysis
+
+From the chart "Outcomes based on Goals", we see a comparison of the percentage successful play kickstarters to the percentage of failed play kickstarters. It is immediately noted that the two lines mirror each other. This is due to the fact that there were no canceled plays. What is seen from the successful percentage line is that as the goal (y-axis) increases, generally, the percentage of successful plays decrease. There is an exception in the 35,000 to 39,999 and 40,000 to 44,999 range. A trend is shown in the failed line where fails increase as the goal increases. These indicate that goals should be kept on the lower side to increase chance of success. However, this is likely only be due to an higher ease of meeting the lower requirements of the lower goals and not actually reflect conditions required to meet goals. A possibly better way of looking at goals versus success would be to use it as a guage of difficulty in meeting goals and not as an indicator of wether success would occur from a set goal. Then it would be possible to guage a range Louise can obtain from her Kickstarter. Another factor we need to be careful of is that the graph is based on percentages. If a sample size was not large, it is possible that the data is not representing the information proportionally. It is possible for the 35,000 to 39,999 and 40,000 to 44,999 goals, there were relatively few plays that had that goal, but just so happened to meet them. Thus in addition to this graph, a table of counts would be helpful in determining how the outcomes were affected by goals.
+
+From the chart "Outcomes based on Launch Date", we 
 
 
 
